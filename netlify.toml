@@ -1,6 +1,10 @@
 [build]
-  command = "bun run build"
-  publish = ".output/public" # adjust for your Nuxt output
+command = "npm run build"
+publish = ".output/public"
 
 [functions]
-  node_bundler = "esbuild"
+directory = ".netlify/functions"
+node_bundler = "esbuild"
+
+[dev]
+framework = "nuxt"
