@@ -1,0 +1,6 @@
+[build]
+  command = "bun run build"
+  publish = ".output/public" # adjust for your Nuxt output
+
+[functions]
+  node_bundler = "esbuild"
