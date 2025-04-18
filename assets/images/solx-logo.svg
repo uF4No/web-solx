@@ -1,0 +1,35 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" class="solx-logo">
+  <style>
+    .solx-logo {
+      --logo-stroke: #5D5F9E;
+      --logo-fill-opacity: 0.1;
+      --logo-x-stroke: #2C3E50;
+    }
+    
+    @media (prefers-color-scheme: dark) {
+      .solx-logo {
+        --logo-stroke: #8a8cc9;
+        --logo-fill-opacity: 0.2;
+        --logo-x-stroke: #f0f0f0;
+      }
+    }
+    
+    :root.dark-mode .solx-logo {
+      --logo-stroke: #8a8cc9;
+      --logo-fill-opacity: 0.2;
+      --logo-x-stroke: #f0f0f0;
+    }
+  </style>
+  
+  <!-- Main Cube Face -->
+  <path d="M40 10L10 25V55L40 70L70 55V25L40 10Z" fill="var(--logo-stroke)" fill-opacity="var(--logo-fill-opacity)" stroke="var(--logo-stroke)" stroke-width="2"/>
+  
+  <!-- Left Face Edges -->
+  <path d="M10 25L40 40L40 70L10 55L10 25Z" fill="var(--logo-stroke)" fill-opacity="var(--logo-fill-opacity)" stroke="var(--logo-stroke)" stroke-width="2"/>
+  
+  <!-- Right Face Edges -->
+  <path d="M40 40L70 25V55L40 70V40Z" fill="var(--logo-stroke)" fill-opacity="var(--logo-fill-opacity)" stroke="var(--logo-stroke)" stroke-width="2"/>
+  
+  <!-- "X" overlay -->
+  <path d="M30 30L50 50M50 30L30 50" stroke="var(--logo-x-stroke)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 
