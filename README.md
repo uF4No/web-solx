@@ -12,14 +12,6 @@ solx is a next-generation Solidity compiler that offers:
 
 ⚠️ **Note**: solx is currently in pre-alpha state and not suitable for production use yet.
 
-## Benchmarks
-
-Based on Foundry tests gas reports, solx demonstrates significant gas savings across different contract types:
-- ERC20: -3% gas reduction
-- ERC721: -2% gas reduction
-- ERC1155: -3% gas reduction
-- solmate: -17% gas reduction
-
 ## Getting Started with solx
 
 1. Download the solx binary from the [GitHub releases page](https://github.com/matter-labs/solx/releases)
