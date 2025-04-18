@@ -15,11 +15,9 @@
     "tailwindcss": "^4.1.4",
     "typewriter-effect": "^2.21.0",
     "vue": "^3.5.13",
-    "vue-router": "^4.5.0",
-    "vue-typewriter-effect": "^1.0.1"
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@nuxtjs/color-mode": "^3.5.2",
     "@nuxtjs/tailwindcss": "^6.13.2"
   }
 }
