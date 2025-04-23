@@ -46,7 +46,7 @@
               </svg>
             </div>
             
-            <h3 class="text-2xl font-mono mb-4 text-primary">Try Solx</h3>
+            <h3 class="text-2xl font-mono mb-4 text-primary">Try solx</h3>
             <p class="mb-6 text-tertiary text-lg flex-grow">
               The solx team has compiled demos and examples to help you get started with the compiler quickly.
             </p>

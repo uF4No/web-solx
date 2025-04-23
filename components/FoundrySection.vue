@@ -91,7 +91,7 @@
         <!-- Additional Info -->
         <div class="mt-8 p-6 bg-tertiary rounded-lg">
           <p class="text-base text-tertiary">
-            💡 <span class="font-mono font-semibold text-[#4ECCA3]">Pro tip:</span> You can also use the solx profile for testing and get gas reports.
+            💡 <span class="font-mono font-semibold text-[#4ECCA3]">Pro tip:</span> You can also use the solx profile for testing and getting gas reports.
           </p>
         </div>
       </div>

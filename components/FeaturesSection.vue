@@ -41,7 +41,7 @@
           </div>
         </div>
         
-        <!-- LLVM Backend -->
+        <!-- LLVM -->
         <div class="relative">
           <div class="p-6 bg-secondary rounded-lg border border-primary h-full flex flex-col">
             <div class="mb-6">
@@ -50,9 +50,9 @@
               </svg>
             </div>
             
-            <h3 class="text-2xl font-mono mb-4 text-primary">LLVM Backend</h3>
+            <h3 class="text-2xl font-mono mb-4 text-primary">LLVM Framework</h3>
             <p class="mb-6 text-tertiary text-lg flex-grow">
-              Built on LLVM's production-grade compiler infrastructure, enabling robust optimizations and reliable code generation.
+              Built on LLVM's world-class compiler infrastructure, enabling robust optimizations and reliable code generation.
             </p>
           </div>
         </div>
