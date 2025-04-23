@@ -2,7 +2,7 @@
   <section class="py-20 bg-secondary text-center">
     <div class="container mx-auto px-4">
       <div class="flex justify-center mb-8">
-        <img src="@/assets/images/logo.png" alt="solx Cube" class="h-32 w-32">
+        <img src="@/assets/images/solx-logo.png" alt="solx Cube" class="h-32 w-28">
       </div>
       <h1 class="text-3xl md:text-5xl font-mono mb-6 text-primary">
         { solx }

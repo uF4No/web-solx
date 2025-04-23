@@ -5,7 +5,7 @@
         <!-- Logo and Description -->
         <div class="col-span-1 md:col-span-2">
           <div class="flex items-center mb-4">
-            <img src="@/assets/images/logo.png" alt="solx Logo" class="h-8 w-8 mr-2">
+            <img src="@/assets/images/solx-logo.png" alt="solx Logo" class="h-8 w-6 mr-2">
             <span class="text-xl font-mono text-primary">{ solx }</span>
           </div>
           <p class="text-tertiary text-sm">

@@ -16,7 +16,7 @@
             <div class="flex items-center justify-between">
               <div class="flex items-center">
                 <a href="/" class="p-0 mr-2">
-                  <img src="@/assets/images/logo.png" alt="solx Logo" class="h-8 w-8 md:h-10 md:w-10">
+                  <img src="@/assets/images/solx-logo.png" alt="solx Logo" class="h-8 w-6 md:h-10 md:w-8">
                 </a>
                 <h3 class="text-lg md:text-2xl lg:text-3xl font-mono text-primary">{ solx }</h3>
               </div>
