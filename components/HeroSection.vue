@@ -8,7 +8,7 @@
         { solx }
       </h1>
       <h2 class="text-2xl md:text-4xl font-mono mb-8 text-secondary">
-        A gas-efficient Solidity compiler for the Ethereum ecosystem
+        A gas-efficient Solidity compiler for Ethereum
       </h2>
       <p class="text-xl md:text-2xl text-tertiary max-w-3xl mx-auto mb-12">
         Powered by LLVM, the most mature compiler infrastructure in the world.
